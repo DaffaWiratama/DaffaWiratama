@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Daffa+%F0%9F%91%8B;CS+Student+%40+Universitas+Gadjah+Mada;Aspiring+Bioinformatics+%26+Comp-Bio+Researcher;Linux+Tinkerer+%7C+Arduino+Builder+%7C+Game+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Daffa+%F0%9F%91%8B;CS+Student+%40+Universitas+Gadjah+Mada;Aspiring+Bioinformatics+%26+Comp-Bio+Researcher;Linux+Tinkerer+%7C+Arduino+Builder+%7C+Service+Center;Focusing+on+AI+implementation+for+medical+use)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffawiratama26@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w1rat4ma)
