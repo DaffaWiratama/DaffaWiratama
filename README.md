@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffawiratama26@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w1rat4ma)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=DaffaWiratama&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -93,17 +93,17 @@ When I'm not studying or writing code, you can usually find me shooting macro ph
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaffaWiratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaWiratama&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaffaWiratama&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <details>
 <summary align="center">🏆 GitHub Trophies (click to expand)</summary>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=DaffaWiratama&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 </details>
 
@@ -112,7 +112,7 @@ When I'm not studying or writing code, you can usually find me shooting macro ph
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/DaffaWiratama/DaffaWiratama/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 > Needs a one-time setup — see the included `snake.yml` workflow file below.
